@@ -1,4 +1,4 @@
-# 🔐 HexLab - Educational Security Research Repository
+# 🔐 AsTro-Dev - Educational Security Research Repository
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ## About
 
-**HexLab** is an educational repository containing various security research materials, including:
+**AsTro-Dev** is an educational repository containing various security research materials, including:
 
 - **Backdoors** - Understanding remote access and persistence mechanisms
 - **Exploits** - Vulnerability exploitation research and analysis
@@ -167,8 +167,8 @@ AI security research including:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/HexLab.git
-cd HexLab
+git clone https://github.com/robinbarzani34-oss/AsTro-Dev-Main
+cd AsTro-Dev-Main
 ```
 
 2. Read the disclaimer:
@@ -296,6 +296,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <div align="center">
 
 **⚠️ Remember: Ethical hacking, legal testing, responsible disclosure**
+
+
+By Dev AsTro Ur Father >>>>>
 
 **📧 Questions? Open an issue or start a discussion**
 
